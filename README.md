@@ -85,4 +85,4 @@
 
 **Задача 2**
 Описание и декомпозиция на микросервисы:
-https://drive.google.com/file/d/1XGVf1HtVCaaAX_mypULw_Oeb-0Z2zFn5/view?usp=sharing
+https://drive.google.com/file/d/1EoCYmVXpOBEmxGF-AbDy8ubLMr6B56fU/view?usp=sharing

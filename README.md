@@ -84,3 +84,4 @@
   webpack.config.js
 
 **Задача 2**
+https://drive.google.com/file/d/1nxR9ku36I8tTVqvDK_HNojd-K7TMftBy/view?usp=sharing

@@ -84,4 +84,5 @@
   webpack.config.js
 
 **Задача 2**
-https://drive.google.com/file/d/1nxR9ku36I8tTVqvDK_HNojd-K7TMftBy/view?usp=sharing
+Описание и декомпозиция на микросервисы:
+https://drive.google.com/file/d/1XGVf1HtVCaaAX_mypULw_Oeb-0Z2zFn5/view?usp=sharing
